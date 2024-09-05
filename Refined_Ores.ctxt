@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Refined_Ores
-comment1.params=n\ upgradeMenuOrNot
-comment1.target=Refined_Ores(int,\ boolean)
-comment2.params=
-comment2.target=void\ act()
-numComments=3
