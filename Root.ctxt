@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Root
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Root\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x\ y
+comment1.target=Root(int,\ int)
+comment2.params=
+comment2.target=int\ getFuelUsed()
+comment3.params=
+comment3.target=int\ getDigSpeed()
+comment4.params=
+comment4.target=int\ getDrillType()
+comment5.params=
+comment5.target=void\ stopSounds()
+comment6.params=
+comment6.target=void\ act()
+numComments=7

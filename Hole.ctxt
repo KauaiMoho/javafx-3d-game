@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Hole
+comment1.params=
+comment1.target=Hole()
+comment2.params=x\ y
+comment2.target=Hole(int,\ int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

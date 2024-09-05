@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Convert_Button
+comment1.params=v\ type
+comment1.target=Convert_Button(Vehicle,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ pressed()
+numComments=4

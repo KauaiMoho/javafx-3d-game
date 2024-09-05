@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Buy_Button
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Buy_Button\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p\ pa\ v
+comment1.target=Buy_Button(int,\ int,\ Vehicle)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ makePressed()
+comment4.params=
+comment4.target=void\ pressed()
+numComments=5

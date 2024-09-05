@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=OreBar
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ OreBar\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=n\ isR\ v
+comment1.target=OreBar(int,\ boolean,\ Vehicle)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
