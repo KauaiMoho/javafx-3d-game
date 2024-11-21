@@ -47,15 +47,13 @@ public class lidar3d_World extends World_3d{
     int subDivisions = 40;
     
     //SET TO TRUE TO TRY OUT ALTERNATE DOT DRAWING
-    //MAKE SURE TO GO INTO MAP_ACTOR and COMMENT OUT THIS
-    //
-    //	@Override
-	//	public DrawMode getDrawMode() {
-    //		return DrawMode.LINE;
-    //	}
-    //
-    //
-    boolean useTexturesForDots = false;
+    //MAKE SURE TO GO INTO MAP_ACTOR and COMMENT OUT BELOW
+	boolean useTexturesForDots = false;
+	// @Override
+	// public DrawMode getDrawMode() {
+	// 	return DrawMode.LINE;
+	// }
+    
     int firstDotIdx = -1;
     
     boolean ignoreMouseMove = false;
