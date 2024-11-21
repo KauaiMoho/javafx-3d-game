@@ -16,7 +16,7 @@ import javafx.stage.Stage;
 public class RUN extends Application{
     
 	double scale = 50;
-	boolean godmode = false;
+	boolean godmode = true;
 	
 	@Override
 	public void start(Stage stage) throws Exception {

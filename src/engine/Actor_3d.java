@@ -25,7 +25,7 @@ public abstract class Actor_3d extends Group{
 	protected String path;
 	protected World_3d world;
 	protected double scale = 1;
-	protected final static String header = "src/lidar3d/lidar3d_resources/";
+	protected final static String header = "javafx-3d-game/src/lidar3d/lidar3d_resources/";
 	
 	protected Rotate yRot = new Rotate(0, Rotate.Y_AXIS);
 	protected Rotate zRot = new Rotate(0, Rotate.Z_AXIS);
@@ -58,7 +58,6 @@ public abstract class Actor_3d extends Group{
 			while(s.hasNext()) {
 				
 				String str = s.next();
-				
 				if(str.equals("v")) {
 					mode = 0;
 				}else if(str.equals("t")) {
